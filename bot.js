@@ -21,7 +21,7 @@ Wiki
 Security
 Insights
 Settings
-FOXY/bot.js /
+FOXY /bot.js /
 @FOXYSER
 FOXYSER Create bot.js
 Latest commit 21d64e4 on 9 Aug
